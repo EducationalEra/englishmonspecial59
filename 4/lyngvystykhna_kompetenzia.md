@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -28,18 +28,16 @@
 Назви навчальних  кімнат та шкільного обладнання</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
+Future-in-the-Past. Sequence of Tenses. Reported Speech. Conditional 1.<br>
+<b>Модальні дієслова:</b><br>
+may, might, ought to.<br>
 <b>Займенник:</b><br>
-неозначені.<br>
+неозначені, заперечні.<br>
 <b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
+у структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
 <b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+неозначені, заперечні.<br>
+<b>Adverbial Clause</b> with 'when'.
 </td>
 <td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
             </tr>

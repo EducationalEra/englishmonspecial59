@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -14,31 +14,34 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Види домашніх обов’язків. <br>
-Родинні свята. <br>
-Кухонні прилади. <br>
-Посуд. <br>
+Види домашніх обов’зків.<br>
+Назви родинних свят та традицій.<br>
+Кухонні прилади.<br>
+Посуд.<br>
 Види обробки продуктів харчування.<br>
-Назви медичних закладів. <br>
-Жанри фільмів / вистав. <br>
-Елементи інтер’єру кінотеатру / театру.<br> 
-Види спортивних змагань. <br>
-Спортивні клуби, секції. <br>
-Визначні місця столиць. <br>
+Назви медичних закладів.<br>
+Назви захворювань та їх симптомів.<br>
+Види лікарських засобів.<br>
+Жанри фільмів/вистав.<br>
+Елементи інтер’єру кінотеатру/театру.<br>
+Види спортивних змагань.<br>
+Спортивні клуби, секції.<br>
+Визначні місця Києва.<br>
+Визначні місця Лондона.<br>
 Види позакласних заходів</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Дієслово:</b><br>
-Past Perfect. Tag-questions. Модальні дієслова: must / mustn't; need / needn't; should / shouldn't.<br>
+Active and Passive Voice. Модальні дієслова і вирази: must, have to, mustn’t/ mustn’t, need / needn’t, should / shouldn’t; вирази be allowed to, let / make smb do.<br>
 <b>Займенник:</b><br>
-зворотні (myself, ourselves, etc.); ступеню (enough, too... a little, much).<br>
+зворотні (myself, ourselves, etc.).<br>
+<b>Прикметник:</b><br>
+у структурах: as... as, so... as; ...enough, too... <br>
 <b>Прислівник:</b><br>
-часу (just, ever), ступеню (a lot, a little).<br>
-<b>Сполучник:</b><br>
-so, then.<br>
+частотні, способу дїі, часу, ступеню (...enough, too...), неозначені і заперечні.<br>
 <b>Числівник:</b><br>
-порядкові до 1000.<br>
+до 1 000 000.<br>
 <b>Прийменник:</b><br>
-часу oefore, after, for, since
+with, by Pro-clause with ’so’, ‘not’ (I think so. I hope not.)
 </td>
 <td width="25%" style="vertical-align:top !important;">Інтонація реплік погодження. Інтонація складного речення. Інтонація реплік поради та висловлення почуттів</td>
             </tr>

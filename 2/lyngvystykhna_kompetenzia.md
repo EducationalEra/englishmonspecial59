@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
+    <td align="center" colspan="3"><b>Лінгвістичні компетенції</b></td>
   </tr>
             <tr>
                 <td align="center"><b>Лексична</b></td>
@@ -14,10 +14,10 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Зовнішність людини.<br>
+Елементи зовнішності людини.<br>
 Риси характеру.<br>
 Види магазинів.<br>
-Основний асортимент товарів.<br>
+Асортимент товарів.<br>
 Гроші.<br>
 Назви страв.<br>
 Види спорту.<br>
@@ -27,21 +27,21 @@
 Види діяльності на уроках</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Артикль:</b><br>
-відсутність артиклю.<br>
+означений артикль та відсутність артиклю перед географічними назвами.<br>
 <b>Іменник:</b><br>
 власні і загальні назви.<br>
 <b>Дієслово:</b><br>
-повторення видо-часових форм дієслова. Модальні дієслова і структури: may, must, саn / could, have to / had to would / wouldn’t (like).<br>
+Past Perfect. Майбутня дія за допомогою структури 'going to' та Present Continuous. Moдальні дієслова should /shouldn’t, would / wouldn't (like).<br>
 <b>Займенник:</b><br>
 абсолютні mine, yours, his, hers, its, ours, theirs.<br>
 <b>Прислівник: </b> <br>
-способу дії (slowly, well, etc.). Ступені порівняння прислівників. <br>
+способу дії (slowly, well, etc.); ступеня (a lot, a little, very, too, rather, etc.). Ступені порівняння прислівників. <br>
 <b>Сполучник:</b> <br>
-but, because. <br>
+so, then. <br>
 <b>Числівник: </b><br>
-кількісні до 1000.<br>  
+кількісні і порядкові до 1000.<br>  
 <b>Прийменник: </b> <br>
-приналежності (of, with, without)
+часу till/untill
 </td>
 <td width="25%" style="vertical-align:top !important;">Інтонація речень з порівняннями. Випадки наголошення прийменників, сполучників у реченнях</td>
             </tr>
